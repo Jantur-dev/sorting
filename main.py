@@ -16,6 +16,6 @@ def bogo_sort(x):
 x = create_array(10, 10)
 y, z = bogo_sort(x)
 
-print(f"Sorted array : {z}")
-print(f"Number of Iterations : {y}")
 print(f"Unsorted array : {x}")
+print(f"Number of Iterations : {y}")
+print(f"Sorted array : {z}")
